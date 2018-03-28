@@ -96,7 +96,7 @@ img:hover {
     display: inline-block;
 }
 
-.footer {
+body>footer {
     position: fixed;
     bottom: 0;
 }
