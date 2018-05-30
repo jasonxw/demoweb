@@ -1,6 +1,6 @@
 body {
     position: relative;
-    background-image: url(./image/main_bg.png);
+    background-image: url(./imge/main_bg.png);
     background-color: #f5f5f5;
     background-position: center center;
     background-repeat: no-repeat;
@@ -132,13 +132,13 @@ h1 span {
 .card .card-top {
     padding: 30px;
     background-color: #2eca7f;
-    background-image: url(./image/main_bg.png);
+    background-image: url(./imge/main_bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.image-wrapper img {
+.imge-wrapper img {
     height: auto;
     max-width: 100%;
     height: 280px;
@@ -150,7 +150,7 @@ h1 span {
     transition: all 0.5s ease-in-out;
 }
 
-.image-wrapper :hover {
+.imge-wrapper :hover {
     transform: translateY(-10px);
     box-shadow: 0 18px 24px rgba(0, 0, 0, 0.15);
 }
@@ -349,7 +349,7 @@ h1 span {
     text-align: center;
 }
 
-.imageEdit {
+.imgeEdit {
     width: 400px;
     height: 200px;
 }
